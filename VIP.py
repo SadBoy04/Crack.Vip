@@ -3,7 +3,7 @@
 Author    = 'D A R K N E T'
 Facebook  = 'Facebook.com/SadBoy04.Xd'
 Instagram = 'Instagram.com/sadboy04.xd'
-Whatsapp  = '082245780524'
+Whatsapp  = '085863742265'
 Version   = '0.6'
 Denventa  = 1827084332
 Postingan = 100003389627503
